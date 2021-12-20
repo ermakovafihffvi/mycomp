@@ -1,0 +1,478 @@
+Array
+(
+    [31] => Array
+        (
+            [ID] => 31
+            [IBLOCK_ID] => 4
+            [CODE] => 
+            [IBLOCK_SECTION_ID] => 11
+            [NAME] => Директор магазина
+            [DETAIL_PICTURE] => 
+            [DETAIL_PAGE_URL] => #SITE_DIR#/company/vacancies.php##ID#
+            [LANG_DIR] => /
+            [EXTERNAL_ID] => 3
+            [IBLOCK_TYPE_ID] => vacancies
+            [IBLOCK_CODE] => furniture_vacancies_s1
+            [IBLOCK_EXTERNAL_ID] => furniture_vacancies_s1
+            [LID] => s1
+            [PROPERTIES] => Array
+                (
+                    [STAG] => Array
+                        (
+                            [ID] => 12
+                            [IBLOCK_ID] => 4
+                            [NAME] => Требуемый стаж
+                            [ACTIVE] => Y
+                            [SORT] => 500
+                            [CODE] => STAG
+                            [DEFAULT_VALUE] => 
+                            [PROPERTY_TYPE] => S
+                            [ROW_COUNT] => 1
+                            [COL_COUNT] => 30
+                            [LIST_TYPE] => L
+                            [MULTIPLE] => N
+                            [XML_ID] => 
+                            [FILE_TYPE] => 
+                            [MULTIPLE_CNT] => 5
+                            [LINK_IBLOCK_ID] => 0
+                            [WITH_DESCRIPTION] => N
+                            [SEARCHABLE] => N
+                            [FILTRABLE] => N
+                            [IS_REQUIRED] => N
+                            [VERSION] => 1
+                            [USER_TYPE] => 
+                            [USER_TYPE_SETTINGS] => 
+                            [HINT] => 
+                            [~NAME] => Требуемый стаж
+                            [~DEFAULT_VALUE] => 
+                            [VALUE_ENUM] => 
+                            [VALUE_XML_ID] => 
+                            [VALUE_SORT] => 
+                            [VALUE] => 3 yars
+                            [PROPERTY_VALUE_ID] => 170
+                            [DESCRIPTION] => 
+                            [~VALUE] => 3 yars
+                            [~DESCRIPTION] => 
+                        )
+
+                    [TIMETABLE] => Array
+                        (
+                            [ID] => 13
+                            [IBLOCK_ID] => 4
+                            [NAME] => График работы
+                            [ACTIVE] => Y
+                            [SORT] => 500
+                            [CODE] => TIMETABLE
+                            [DEFAULT_VALUE] => 
+                            [PROPERTY_TYPE] => S
+                            [ROW_COUNT] => 1
+                            [COL_COUNT] => 30
+                            [LIST_TYPE] => L
+                            [MULTIPLE] => N
+                            [XML_ID] => 
+                            [FILE_TYPE] => 
+                            [MULTIPLE_CNT] => 5
+                            [LINK_IBLOCK_ID] => 0
+                            [WITH_DESCRIPTION] => N
+                            [SEARCHABLE] => N
+                            [FILTRABLE] => N
+                            [IS_REQUIRED] => N
+                            [VERSION] => 1
+                            [USER_TYPE] => 
+                            [USER_TYPE_SETTINGS] => 
+                            [HINT] => 
+                            [~NAME] => График работы
+                            [~DEFAULT_VALUE] => 
+                            [VALUE_ENUM] => 
+                            [VALUE_XML_ID] => 
+                            [VALUE_SORT] => 
+                            [VALUE] => 5/2
+                            [PROPERTY_VALUE_ID] => 171
+                            [DESCRIPTION] => 
+                            [~VALUE] => 5/2
+                            [~DESCRIPTION] => 
+                        )
+
+                    [ED] => Array
+                        (
+                            [ID] => 14
+                            [IBLOCK_ID] => 4
+                            [NAME] => Образование
+                            [ACTIVE] => Y
+                            [SORT] => 500
+                            [CODE] => ED
+                            [DEFAULT_VALUE] => 
+                            [PROPERTY_TYPE] => S
+                            [ROW_COUNT] => 1
+                            [COL_COUNT] => 30
+                            [LIST_TYPE] => L
+                            [MULTIPLE] => Y
+                            [XML_ID] => 
+                            [FILE_TYPE] => 
+                            [MULTIPLE_CNT] => 5
+                            [LINK_IBLOCK_ID] => 0
+                            [WITH_DESCRIPTION] => N
+                            [SEARCHABLE] => N
+                            [FILTRABLE] => N
+                            [IS_REQUIRED] => N
+                            [VERSION] => 1
+                            [USER_TYPE] => 
+                            [USER_TYPE_SETTINGS] => 
+                            [HINT] => 
+                            [~NAME] => Образование
+                            [~DEFAULT_VALUE] => 
+                            [VALUE_ENUM] => 
+                            [VALUE_XML_ID] => 
+                            [VALUE_SORT] => 
+                            [VALUE] => Array
+                                (
+                                    [0] => cv vbbb
+                                    [1] => fgbfgbfgv
+                                )
+
+                            [PROPERTY_VALUE_ID] => Array
+                                (
+                                    [0] => 172
+                                    [1] => 173
+                                )
+
+                            [DESCRIPTION] => Array
+                                (
+                                    [0] => 
+                                    [1] => 
+                                )
+
+                            [~VALUE] => Array
+                                (
+                                    [0] => cv vbbb
+                                    [1] => fgbfgbfgv
+                                )
+
+                            [~DESCRIPTION] => Array
+                                (
+                                    [0] => 
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [32] => Array
+        (
+            [ID] => 32
+            [IBLOCK_ID] => 4
+            [CODE] => 
+            [IBLOCK_SECTION_ID] => 11
+            [NAME] => Бухгалтер отдела учета готовой продукции
+            [DETAIL_PICTURE] => 
+            [DETAIL_PAGE_URL] => #SITE_DIR#/company/vacancies.php##ID#
+            [LANG_DIR] => /
+            [EXTERNAL_ID] => 4
+            [IBLOCK_TYPE_ID] => vacancies
+            [IBLOCK_CODE] => furniture_vacancies_s1
+            [IBLOCK_EXTERNAL_ID] => furniture_vacancies_s1
+            [LID] => s1
+            [PROPERTIES] => Array
+                (
+                    [STAG] => Array
+                        (
+                            [ID] => 12
+                            [IBLOCK_ID] => 4
+                            [NAME] => Требуемый стаж
+                            [ACTIVE] => Y
+                            [SORT] => 500
+                            [CODE] => STAG
+                            [DEFAULT_VALUE] => 
+                            [PROPERTY_TYPE] => S
+                            [ROW_COUNT] => 1
+                            [COL_COUNT] => 30
+                            [LIST_TYPE] => L
+                            [MULTIPLE] => N
+                            [XML_ID] => 
+                            [FILE_TYPE] => 
+                            [MULTIPLE_CNT] => 5
+                            [LINK_IBLOCK_ID] => 0
+                            [WITH_DESCRIPTION] => N
+                            [SEARCHABLE] => N
+                            [FILTRABLE] => N
+                            [IS_REQUIRED] => N
+                            [VERSION] => 1
+                            [USER_TYPE] => 
+                            [USER_TYPE_SETTINGS] => 
+                            [HINT] => 
+                            [~NAME] => Требуемый стаж
+                            [~DEFAULT_VALUE] => 
+                            [VALUE_ENUM] => 
+                            [VALUE_XML_ID] => 
+                            [VALUE_SORT] => 
+                            [VALUE] => 2 years
+                            [PROPERTY_VALUE_ID] => 178
+                            [DESCRIPTION] => 
+                            [~VALUE] => 2 years
+                            [~DESCRIPTION] => 
+                        )
+
+                    [TIMETABLE] => Array
+                        (
+                            [ID] => 13
+                            [IBLOCK_ID] => 4
+                            [NAME] => График работы
+                            [ACTIVE] => Y
+                            [SORT] => 500
+                            [CODE] => TIMETABLE
+                            [DEFAULT_VALUE] => 
+                            [PROPERTY_TYPE] => S
+                            [ROW_COUNT] => 1
+                            [COL_COUNT] => 30
+                            [LIST_TYPE] => L
+                            [MULTIPLE] => N
+                            [XML_ID] => 
+                            [FILE_TYPE] => 
+                            [MULTIPLE_CNT] => 5
+                            [LINK_IBLOCK_ID] => 0
+                            [WITH_DESCRIPTION] => N
+                            [SEARCHABLE] => N
+                            [FILTRABLE] => N
+                            [IS_REQUIRED] => N
+                            [VERSION] => 1
+                            [USER_TYPE] => 
+                            [USER_TYPE_SETTINGS] => 
+                            [HINT] => 
+                            [~NAME] => График работы
+                            [~DEFAULT_VALUE] => 
+                            [VALUE_ENUM] => 
+                            [VALUE_XML_ID] => 
+                            [VALUE_SORT] => 
+                            [VALUE] => 5/2
+                            [PROPERTY_VALUE_ID] => 179
+                            [DESCRIPTION] => 
+                            [~VALUE] => 5/2
+                            [~DESCRIPTION] => 
+                        )
+
+                    [ED] => Array
+                        (
+                            [ID] => 14
+                            [IBLOCK_ID] => 4
+                            [NAME] => Образование
+                            [ACTIVE] => Y
+                            [SORT] => 500
+                            [CODE] => ED
+                            [DEFAULT_VALUE] => 
+                            [PROPERTY_TYPE] => S
+                            [ROW_COUNT] => 1
+                            [COL_COUNT] => 30
+                            [LIST_TYPE] => L
+                            [MULTIPLE] => Y
+                            [XML_ID] => 
+                            [FILE_TYPE] => 
+                            [MULTIPLE_CNT] => 5
+                            [LINK_IBLOCK_ID] => 0
+                            [WITH_DESCRIPTION] => N
+                            [SEARCHABLE] => N
+                            [FILTRABLE] => N
+                            [IS_REQUIRED] => N
+                            [VERSION] => 1
+                            [USER_TYPE] => 
+                            [USER_TYPE_SETTINGS] => 
+                            [HINT] => 
+                            [~NAME] => Образование
+                            [~DEFAULT_VALUE] => 
+                            [VALUE_ENUM] => 
+                            [VALUE_XML_ID] => 
+                            [VALUE_SORT] => 
+                            [VALUE] => Array
+                                (
+                                    [0] => cv vbbb
+                                )
+
+                            [PROPERTY_VALUE_ID] => Array
+                                (
+                                    [0] => 180
+                                )
+
+                            [DESCRIPTION] => Array
+                                (
+                                    [0] => 
+                                )
+
+                            [~VALUE] => Array
+                                (
+                                    [0] => cv vbbb
+                                )
+
+                            [~DESCRIPTION] => Array
+                                (
+                                    [0] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [30] => Array
+        (
+            [ID] => 30
+            [IBLOCK_ID] => 4
+            [CODE] => 
+            [IBLOCK_SECTION_ID] => 12
+            [NAME] => Продавец-дизайнер (кухни)
+            [DETAIL_PICTURE] => 
+            [DETAIL_PAGE_URL] => #SITE_DIR#/company/vacancies.php##ID#
+            [LANG_DIR] => /
+            [EXTERNAL_ID] => 2
+            [IBLOCK_TYPE_ID] => vacancies
+            [IBLOCK_CODE] => furniture_vacancies_s1
+            [IBLOCK_EXTERNAL_ID] => furniture_vacancies_s1
+            [LID] => s1
+            [PROPERTIES] => Array
+                (
+                    [STAG] => Array
+                        (
+                            [ID] => 12
+                            [IBLOCK_ID] => 4
+                            [NAME] => Требуемый стаж
+                            [ACTIVE] => Y
+                            [SORT] => 500
+                            [CODE] => STAG
+                            [DEFAULT_VALUE] => 
+                            [PROPERTY_TYPE] => S
+                            [ROW_COUNT] => 1
+                            [COL_COUNT] => 30
+                            [LIST_TYPE] => L
+                            [MULTIPLE] => N
+                            [XML_ID] => 
+                            [FILE_TYPE] => 
+                            [MULTIPLE_CNT] => 5
+                            [LINK_IBLOCK_ID] => 0
+                            [WITH_DESCRIPTION] => N
+                            [SEARCHABLE] => N
+                            [FILTRABLE] => N
+                            [IS_REQUIRED] => N
+                            [VERSION] => 1
+                            [USER_TYPE] => 
+                            [USER_TYPE_SETTINGS] => 
+                            [HINT] => 
+                            [~NAME] => Требуемый стаж
+                            [~DEFAULT_VALUE] => 
+                            [VALUE_ENUM] => 
+                            [VALUE_XML_ID] => 
+                            [VALUE_SORT] => 
+                            [VALUE] => 1 yars
+                            [PROPERTY_VALUE_ID] => 174
+                            [DESCRIPTION] => 
+                            [~VALUE] => 1 yars
+                            [~DESCRIPTION] => 
+                        )
+
+                    [TIMETABLE] => Array
+                        (
+                            [ID] => 13
+                            [IBLOCK_ID] => 4
+                            [NAME] => График работы
+                            [ACTIVE] => Y
+                            [SORT] => 500
+                            [CODE] => TIMETABLE
+                            [DEFAULT_VALUE] => 
+                            [PROPERTY_TYPE] => S
+                            [ROW_COUNT] => 1
+                            [COL_COUNT] => 30
+                            [LIST_TYPE] => L
+                            [MULTIPLE] => N
+                            [XML_ID] => 
+                            [FILE_TYPE] => 
+                            [MULTIPLE_CNT] => 5
+                            [LINK_IBLOCK_ID] => 0
+                            [WITH_DESCRIPTION] => N
+                            [SEARCHABLE] => N
+                            [FILTRABLE] => N
+                            [IS_REQUIRED] => N
+                            [VERSION] => 1
+                            [USER_TYPE] => 
+                            [USER_TYPE_SETTINGS] => 
+                            [HINT] => 
+                            [~NAME] => График работы
+                            [~DEFAULT_VALUE] => 
+                            [VALUE_ENUM] => 
+                            [VALUE_XML_ID] => 
+                            [VALUE_SORT] => 
+                            [VALUE] => 5/2
+                            [PROPERTY_VALUE_ID] => 175
+                            [DESCRIPTION] => 
+                            [~VALUE] => 5/2
+                            [~DESCRIPTION] => 
+                        )
+
+                    [ED] => Array
+                        (
+                            [ID] => 14
+                            [IBLOCK_ID] => 4
+                            [NAME] => Образование
+                            [ACTIVE] => Y
+                            [SORT] => 500
+                            [CODE] => ED
+                            [DEFAULT_VALUE] => 
+                            [PROPERTY_TYPE] => S
+                            [ROW_COUNT] => 1
+                            [COL_COUNT] => 30
+                            [LIST_TYPE] => L
+                            [MULTIPLE] => Y
+                            [XML_ID] => 
+                            [FILE_TYPE] => 
+                            [MULTIPLE_CNT] => 5
+                            [LINK_IBLOCK_ID] => 0
+                            [WITH_DESCRIPTION] => N
+                            [SEARCHABLE] => N
+                            [FILTRABLE] => N
+                            [IS_REQUIRED] => N
+                            [VERSION] => 1
+                            [USER_TYPE] => 
+                            [USER_TYPE_SETTINGS] => 
+                            [HINT] => 
+                            [~NAME] => Образование
+                            [~DEFAULT_VALUE] => 
+                            [VALUE_ENUM] => 
+                            [VALUE_XML_ID] => 
+                            [VALUE_SORT] => 
+                            [VALUE] => Array
+                                (
+                                    [0] => cv vbbb
+                                    [1] => fgbfgbfgv
+                                )
+
+                            [PROPERTY_VALUE_ID] => Array
+                                (
+                                    [0] => 176
+                                    [1] => 177
+                                )
+
+                            [DESCRIPTION] => Array
+                                (
+                                    [0] => 
+                                    [1] => 
+                                )
+
+                            [~VALUE] => Array
+                                (
+                                    [0] => cv vbbb
+                                    [1] => fgbfgbfgv
+                                )
+
+                            [~DESCRIPTION] => Array
+                                (
+                                    [0] => 
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
