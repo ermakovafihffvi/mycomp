@@ -1,0 +1,19 @@
+Array
+(
+    [CACHE_GROUPS] => Y
+    [CACHE_TIME] => 180
+    [CACHE_TYPE] => A
+    [DETAIL_URL] => 
+    [IBLOCKS] => 4
+    [IBLOCK_TYPE] => vacancies
+    [COMPONENT_TEMPLATE] => .default
+    [IBLOCK_ID] => 4
+    [~CACHE_GROUPS] => Y
+    [~CACHE_TIME] => 180
+    [~CACHE_TYPE] => A
+    [~DETAIL_URL] => 
+    [~IBLOCKS] => 4
+    [~IBLOCK_TYPE] => vacancies
+    [~COMPONENT_TEMPLATE] => .default
+    [~IBLOCK_ID] => 4
+)
