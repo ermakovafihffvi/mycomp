@@ -15,7 +15,7 @@ if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
 	Processing of received parameters
 *************************************************************************/
 if(!isset($arParams["CACHE_TIME"]))
-	$arParams["CACHE_TIME"] = 180;
+	$arParams["CACHE_TIME"] = 3600;
 
 
 $arParams["IBLOCK_ID"] = intval($arParams["IBLOCK_ID"]);
